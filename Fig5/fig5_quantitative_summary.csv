@@ -1,0 +1,146 @@
+panel,scope,metric,value,unit,definition,source_csv
+a,all stages,trajectory_point_count,1714,points,Recorded tracker points in the continuous four-stage run,fig5a_continuous_run_trajectory_points.csv
+a,stage_1,trajectory_point_count,511,points,Recorded tracker points for this stage,fig5a_continuous_run_trajectory_points.csv
+a,stage_2,trajectory_point_count,336,points,Recorded tracker points for this stage,fig5a_continuous_run_trajectory_points.csv
+a,stage_3,trajectory_point_count,482,points,Recorded tracker points for this stage,fig5a_continuous_run_trajectory_points.csv
+a,stage_4,trajectory_point_count,385,points,Recorded tracker points for this stage,fig5a_continuous_run_trajectory_points.csv
+b,all stages,selected_frame_count,20,frames,Time-lapse frames displayed in Fig. 5b,fig5b_selected_frame_times.csv
+c,upper_to_right,sample_count,128,action chunks,Flow-matching samples at one fixed observation,fig5c_fixed_observation_first_actions.csv
+c,upper_to_right,mean_first_action_x,0.93489562526,normalized action,Mean x component of chunk step 0,fig5c_fixed_observation_first_actions.csv
+c,upper_to_right,mean_first_action_y,-0.009546299120664061,normalized action,Mean y component of chunk step 0,fig5c_fixed_observation_first_actions.csv
+c,upper_to_right,proportion_right_directed,0.90625,fraction,Fraction directed right after applying the deployment stop gate (L2 norm > 0.1),fig5c_fixed_observation_first_actions.csv
+c,upper_to_right,raw_sign_proportion_right_directed,0.9140625,fraction,Un-gated fraction with first_action_x > 0,fig5c_fixed_observation_first_actions.csv
+c,return_to_left,sample_count,128,action chunks,Flow-matching samples at one fixed observation,fig5c_fixed_observation_first_actions.csv
+c,return_to_left,mean_first_action_x,-0.993044704375,normalized action,Mean x component of chunk step 0,fig5c_fixed_observation_first_actions.csv
+c,return_to_left,mean_first_action_y,-0.14649500533917187,normalized action,Mean y component of chunk step 0,fig5c_fixed_observation_first_actions.csv
+c,return_to_left,proportion_left_directed,0.9921875,fraction,Fraction directed left after applying the deployment stop gate (L2 norm > 0.1),fig5c_fixed_observation_first_actions.csv
+c,return_to_left,raw_sign_proportion_left_directed,1.0,fraction,Un-gated fraction with first_action_x < 0,fig5c_fixed_observation_first_actions.csv
+c,lower_to_right,sample_count,128,action chunks,Flow-matching samples at one fixed observation,fig5c_fixed_observation_first_actions.csv
+c,lower_to_right,mean_first_action_x,0.9500507502085938,normalized action,Mean x component of chunk step 0,fig5c_fixed_observation_first_actions.csv
+c,lower_to_right,mean_first_action_y,-0.0868837620234375,normalized action,Mean y component of chunk step 0,fig5c_fixed_observation_first_actions.csv
+c,lower_to_right,proportion_right_directed,0.9609375,fraction,Fraction directed right after applying the deployment stop gate (L2 norm > 0.1),fig5c_fixed_observation_first_actions.csv
+c,lower_to_right,raw_sign_proportion_right_directed,0.984375,fraction,Un-gated fraction with first_action_x > 0,fig5c_fixed_observation_first_actions.csv
+d,21 physical rollouts,valid_state_count,14029,states,States retained after spatial and timestamp filtering,fig5d_all_rollouts_speed_points.csv
+d,21 physical rollouts,median_speed,0.8253444999999999,mm s^-1,Linear-interpolation percentile over pooled statewise speeds,fig5d_all_rollouts_speed_points.csv
+d,21 physical rollouts,p95_speed,13.499332199999994,mm s^-1,Linear-interpolation percentile over pooled statewise speeds,fig5d_all_rollouts_speed_points.csv
+d,21 physical rollouts,p99_speed,27.086406179999845,mm s^-1,Linear-interpolation percentile over pooled statewise speeds,fig5d_all_rollouts_speed_points.csv
+e,upper_to_right,step_0_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_0_mean_norm,0.96163132982464,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_0_stop_like_fraction,0.0859375,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_0_right_directed_fraction,0.9140625,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_0_left_directed_fraction,0.0859375,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_1_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_1_mean_norm,0.9574989038759876,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_1_stop_like_fraction,0.0859375,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_1_right_directed_fraction,0.953125,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_1_left_directed_fraction,0.046875,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_2_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_2_mean_norm,0.9269240760884491,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_2_stop_like_fraction,0.109375,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_2_right_directed_fraction,0.953125,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_2_left_directed_fraction,0.046875,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_3_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_3_mean_norm,0.8830340455027201,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_3_stop_like_fraction,0.140625,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_3_right_directed_fraction,0.9296875,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_3_left_directed_fraction,0.0703125,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_4_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_4_mean_norm,0.772503551618255,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_4_stop_like_fraction,0.25,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_4_right_directed_fraction,0.9140625,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_4_left_directed_fraction,0.0859375,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_5_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_5_mean_norm,0.6605577768433045,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_5_stop_like_fraction,0.3671875,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_5_right_directed_fraction,0.875,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_5_left_directed_fraction,0.125,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_6_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_6_mean_norm,0.547762589227305,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_6_stop_like_fraction,0.4609375,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_6_right_directed_fraction,0.828125,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_6_left_directed_fraction,0.171875,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_7_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_7_mean_norm,0.4837720746213415,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_7_stop_like_fraction,0.4921875,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_7_right_directed_fraction,0.78125,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,upper_to_right,step_7_left_directed_fraction,0.21875,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_0_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_0_mean_norm,1.0226157512172762,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_0_stop_like_fraction,0.0078125,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_0_right_directed_fraction,0.0,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_0_left_directed_fraction,1.0,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_1_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_1_mean_norm,1.0256348205675254,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_1_stop_like_fraction,0.0,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_1_right_directed_fraction,0.0,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_1_left_directed_fraction,1.0,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_2_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_2_mean_norm,1.0338886869551587,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_2_stop_like_fraction,0.0,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_2_right_directed_fraction,0.0,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_2_left_directed_fraction,1.0,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_3_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_3_mean_norm,1.0343830000226841,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_3_stop_like_fraction,0.0,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_3_right_directed_fraction,0.0,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_3_left_directed_fraction,1.0,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_4_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_4_mean_norm,1.035693874535382,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_4_stop_like_fraction,0.0,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_4_right_directed_fraction,0.0,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_4_left_directed_fraction,1.0,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_5_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_5_mean_norm,1.0350949780394416,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_5_stop_like_fraction,0.0,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_5_right_directed_fraction,0.0,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_5_left_directed_fraction,1.0,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_6_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_6_mean_norm,1.034446918897368,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_6_stop_like_fraction,0.0,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_6_right_directed_fraction,0.0,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_6_left_directed_fraction,1.0,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_7_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_7_mean_norm,1.033764896175663,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_7_stop_like_fraction,0.0,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_7_right_directed_fraction,0.0,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,return_to_left,step_7_left_directed_fraction,1.0,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_0_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_0_mean_norm,0.9669761793613136,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_0_stop_like_fraction,0.0390625,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_0_right_directed_fraction,0.984375,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_0_left_directed_fraction,0.015625,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_1_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_1_mean_norm,0.9627981004784989,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_1_stop_like_fraction,0.0390625,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_1_right_directed_fraction,0.9765625,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_1_left_directed_fraction,0.0234375,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_2_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_2_mean_norm,0.9016994374092463,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_2_stop_like_fraction,0.109375,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_2_right_directed_fraction,0.9765625,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_2_left_directed_fraction,0.0234375,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_3_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_3_mean_norm,0.8252525155054845,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_3_stop_like_fraction,0.171875,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_3_right_directed_fraction,0.921875,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_3_left_directed_fraction,0.078125,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_4_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_4_mean_norm,0.674564244292741,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_4_stop_like_fraction,0.3046875,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_4_right_directed_fraction,0.828125,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_4_left_directed_fraction,0.171875,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_5_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_5_mean_norm,0.4037901611316448,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_5_stop_like_fraction,0.578125,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_5_right_directed_fraction,0.6796875,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_5_left_directed_fraction,0.3203125,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_6_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_6_mean_norm,0.29088218010220057,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_6_stop_like_fraction,0.6484375,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_6_right_directed_fraction,0.6484375,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_6_left_directed_fraction,0.3515625,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_7_sample_count,128,actions,Flow-matching actions at this chunk step,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_7_mean_norm,0.22829964755967075,normalized action,Mean L2 action magnitude,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_7_stop_like_fraction,0.7421875,fraction,Fraction with L2 action magnitude <= 0.1,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_7_right_directed_fraction,0.515625,fraction,Fraction with predicted_action_x > 0,fig5e_fixed_observation_action_chunks_long.csv
+e,lower_to_right,step_7_left_directed_fraction,0.484375,fraction,Fraction with predicted_action_x < 0,fig5e_fixed_observation_action_chunks_long.csv

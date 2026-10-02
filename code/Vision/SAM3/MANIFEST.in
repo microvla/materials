@@ -1,0 +1,10 @@
+include LICENSE
+include README.md
+recursive-include examples *.py
+recursive-include examples *.ipynb
+recursive-include examples *.md
+recursive-include tests *.py
+
+recursive-include sam3 *.yaml *.yml *.json *.txt
+include assets/bpe_simple_vocab_16e6.txt.gz
+recursive-include sam3/assets *.gz

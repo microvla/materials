@@ -1,0 +1,151 @@
+method,layout,bin_index,bin_size,start_episode,end_episode,successes,success_rate
+MicroVLA,01_simple_y_split,1,20,1,20,20,1.0
+MicroVLA,01_simple_y_split,2,20,21,40,19,0.95
+MicroVLA,01_simple_y_split,3,20,41,60,20,1.0
+MicroVLA,01_simple_y_split,4,20,61,80,20,1.0
+MicroVLA,01_simple_y_split,5,20,81,100,20,1.0
+MicroVLA,01_simple_y_split,6,20,101,120,20,1.0
+MicroVLA,01_simple_y_split,7,20,121,140,20,1.0
+MicroVLA,01_simple_y_split,8,20,141,160,20,1.0
+MicroVLA,01_simple_y_split,9,20,161,180,17,0.85
+MicroVLA,01_simple_y_split,10,20,181,200,20,1.0
+MicroVLA,02_four_channel_clean_ladder,1,20,1,20,17,0.85
+MicroVLA,02_four_channel_clean_ladder,2,20,21,40,18,0.9
+MicroVLA,02_four_channel_clean_ladder,3,20,41,60,18,0.9
+MicroVLA,02_four_channel_clean_ladder,4,20,61,80,20,1.0
+MicroVLA,02_four_channel_clean_ladder,5,20,81,100,19,0.95
+MicroVLA,02_four_channel_clean_ladder,6,20,101,120,19,0.95
+MicroVLA,02_four_channel_clean_ladder,7,20,121,140,20,1.0
+MicroVLA,02_four_channel_clean_ladder,8,20,141,160,19,0.95
+MicroVLA,02_four_channel_clean_ladder,9,20,161,180,19,0.95
+MicroVLA,02_four_channel_clean_ladder,10,20,181,200,18,0.9
+MicroVLA,03_triangle_bypass,1,20,1,20,20,1.0
+MicroVLA,03_triangle_bypass,2,20,21,40,18,0.9
+MicroVLA,03_triangle_bypass,3,20,41,60,19,0.95
+MicroVLA,03_triangle_bypass,4,20,61,80,20,1.0
+MicroVLA,03_triangle_bypass,5,20,81,100,19,0.95
+MicroVLA,03_triangle_bypass,6,20,101,120,16,0.8
+MicroVLA,03_triangle_bypass,7,20,121,140,19,0.95
+MicroVLA,03_triangle_bypass,8,20,141,160,19,0.95
+MicroVLA,03_triangle_bypass,9,20,161,180,18,0.9
+MicroVLA,03_triangle_bypass,10,20,181,200,19,0.95
+MicroVLA,04_t_branch_upper_lower,1,20,1,20,19,0.95
+MicroVLA,04_t_branch_upper_lower,2,20,21,40,19,0.95
+MicroVLA,04_t_branch_upper_lower,3,20,41,60,19,0.95
+MicroVLA,04_t_branch_upper_lower,4,20,61,80,18,0.9
+MicroVLA,04_t_branch_upper_lower,5,20,81,100,19,0.95
+MicroVLA,04_t_branch_upper_lower,6,20,101,120,19,0.95
+MicroVLA,04_t_branch_upper_lower,7,20,121,140,19,0.95
+MicroVLA,04_t_branch_upper_lower,8,20,141,160,19,0.95
+MicroVLA,04_t_branch_upper_lower,9,20,161,180,18,0.9
+MicroVLA,04_t_branch_upper_lower,10,20,181,200,19,0.95
+MicroVLA,05_diamond_bypass,1,20,1,20,19,0.95
+MicroVLA,05_diamond_bypass,2,20,21,40,19,0.95
+MicroVLA,05_diamond_bypass,3,20,41,60,18,0.9
+MicroVLA,05_diamond_bypass,4,20,61,80,19,0.95
+MicroVLA,05_diamond_bypass,5,20,81,100,19,0.95
+MicroVLA,05_diamond_bypass,6,20,101,120,19,0.95
+MicroVLA,05_diamond_bypass,7,20,121,140,19,0.95
+MicroVLA,05_diamond_bypass,8,20,141,160,20,1.0
+MicroVLA,05_diamond_bypass,9,20,161,180,18,0.9
+MicroVLA,05_diamond_bypass,10,20,181,200,19,0.95
+MicroVLA (Direct Action Mapping),01_simple_y_split,1,20,1,20,8,0.4
+MicroVLA (Direct Action Mapping),01_simple_y_split,2,20,21,40,9,0.45
+MicroVLA (Direct Action Mapping),01_simple_y_split,3,20,41,60,10,0.5
+MicroVLA (Direct Action Mapping),01_simple_y_split,4,20,61,80,11,0.55
+MicroVLA (Direct Action Mapping),01_simple_y_split,5,20,81,100,14,0.7
+MicroVLA (Direct Action Mapping),01_simple_y_split,6,20,101,120,8,0.4
+MicroVLA (Direct Action Mapping),01_simple_y_split,7,20,121,140,13,0.65
+MicroVLA (Direct Action Mapping),01_simple_y_split,8,20,141,160,10,0.5
+MicroVLA (Direct Action Mapping),01_simple_y_split,9,20,161,180,10,0.5
+MicroVLA (Direct Action Mapping),01_simple_y_split,10,20,181,200,12,0.6
+MicroVLA (Direct Action Mapping),02_four_channel_clean_ladder,1,20,1,20,10,0.5
+MicroVLA (Direct Action Mapping),02_four_channel_clean_ladder,2,20,21,40,11,0.55
+MicroVLA (Direct Action Mapping),02_four_channel_clean_ladder,3,20,41,60,14,0.7
+MicroVLA (Direct Action Mapping),02_four_channel_clean_ladder,4,20,61,80,11,0.55
+MicroVLA (Direct Action Mapping),02_four_channel_clean_ladder,5,20,81,100,9,0.45
+MicroVLA (Direct Action Mapping),02_four_channel_clean_ladder,6,20,101,120,13,0.65
+MicroVLA (Direct Action Mapping),02_four_channel_clean_ladder,7,20,121,140,6,0.3
+MicroVLA (Direct Action Mapping),02_four_channel_clean_ladder,8,20,141,160,14,0.7
+MicroVLA (Direct Action Mapping),02_four_channel_clean_ladder,9,20,161,180,16,0.8
+MicroVLA (Direct Action Mapping),02_four_channel_clean_ladder,10,20,181,200,11,0.55
+MicroVLA (Direct Action Mapping),03_triangle_bypass,1,20,1,20,6,0.3
+MicroVLA (Direct Action Mapping),03_triangle_bypass,2,20,21,40,12,0.6
+MicroVLA (Direct Action Mapping),03_triangle_bypass,3,20,41,60,11,0.55
+MicroVLA (Direct Action Mapping),03_triangle_bypass,4,20,61,80,10,0.5
+MicroVLA (Direct Action Mapping),03_triangle_bypass,5,20,81,100,9,0.45
+MicroVLA (Direct Action Mapping),03_triangle_bypass,6,20,101,120,8,0.4
+MicroVLA (Direct Action Mapping),03_triangle_bypass,7,20,121,140,14,0.7
+MicroVLA (Direct Action Mapping),03_triangle_bypass,8,20,141,160,10,0.5
+MicroVLA (Direct Action Mapping),03_triangle_bypass,9,20,161,180,11,0.55
+MicroVLA (Direct Action Mapping),03_triangle_bypass,10,20,181,200,8,0.4
+MicroVLA (Direct Action Mapping),04_t_branch_upper_lower,1,20,1,20,11,0.55
+MicroVLA (Direct Action Mapping),04_t_branch_upper_lower,2,20,21,40,12,0.6
+MicroVLA (Direct Action Mapping),04_t_branch_upper_lower,3,20,41,60,10,0.5
+MicroVLA (Direct Action Mapping),04_t_branch_upper_lower,4,20,61,80,13,0.65
+MicroVLA (Direct Action Mapping),04_t_branch_upper_lower,5,20,81,100,14,0.7
+MicroVLA (Direct Action Mapping),04_t_branch_upper_lower,6,20,101,120,14,0.7
+MicroVLA (Direct Action Mapping),04_t_branch_upper_lower,7,20,121,140,10,0.5
+MicroVLA (Direct Action Mapping),04_t_branch_upper_lower,8,20,141,160,13,0.65
+MicroVLA (Direct Action Mapping),04_t_branch_upper_lower,9,20,161,180,14,0.7
+MicroVLA (Direct Action Mapping),04_t_branch_upper_lower,10,20,181,200,10,0.5
+MicroVLA (Direct Action Mapping),05_diamond_bypass,1,20,1,20,11,0.55
+MicroVLA (Direct Action Mapping),05_diamond_bypass,2,20,21,40,9,0.45
+MicroVLA (Direct Action Mapping),05_diamond_bypass,3,20,41,60,14,0.7
+MicroVLA (Direct Action Mapping),05_diamond_bypass,4,20,61,80,7,0.35
+MicroVLA (Direct Action Mapping),05_diamond_bypass,5,20,81,100,12,0.6
+MicroVLA (Direct Action Mapping),05_diamond_bypass,6,20,101,120,11,0.55
+MicroVLA (Direct Action Mapping),05_diamond_bypass,7,20,121,140,8,0.4
+MicroVLA (Direct Action Mapping),05_diamond_bypass,8,20,141,160,10,0.5
+MicroVLA (Direct Action Mapping),05_diamond_bypass,9,20,161,180,9,0.45
+MicroVLA (Direct Action Mapping),05_diamond_bypass,10,20,181,200,11,0.55
+PPO fused,01_simple_y_split,1,20,1,20,8,0.4
+PPO fused,01_simple_y_split,2,20,21,40,10,0.5
+PPO fused,01_simple_y_split,3,20,41,60,10,0.5
+PPO fused,01_simple_y_split,4,20,61,80,11,0.55
+PPO fused,01_simple_y_split,5,20,81,100,14,0.7
+PPO fused,01_simple_y_split,6,20,101,120,9,0.45
+PPO fused,01_simple_y_split,7,20,121,140,13,0.65
+PPO fused,01_simple_y_split,8,20,141,160,10,0.5
+PPO fused,01_simple_y_split,9,20,161,180,10,0.5
+PPO fused,01_simple_y_split,10,20,181,200,12,0.6
+PPO fused,02_four_channel_clean_ladder,1,20,1,20,11,0.55
+PPO fused,02_four_channel_clean_ladder,2,20,21,40,12,0.6
+PPO fused,02_four_channel_clean_ladder,3,20,41,60,14,0.7
+PPO fused,02_four_channel_clean_ladder,4,20,61,80,11,0.55
+PPO fused,02_four_channel_clean_ladder,5,20,81,100,9,0.45
+PPO fused,02_four_channel_clean_ladder,6,20,101,120,13,0.65
+PPO fused,02_four_channel_clean_ladder,7,20,121,140,6,0.3
+PPO fused,02_four_channel_clean_ladder,8,20,141,160,14,0.7
+PPO fused,02_four_channel_clean_ladder,9,20,161,180,16,0.8
+PPO fused,02_four_channel_clean_ladder,10,20,181,200,12,0.6
+PPO fused,03_triangle_bypass,1,20,1,20,8,0.4
+PPO fused,03_triangle_bypass,2,20,21,40,11,0.55
+PPO fused,03_triangle_bypass,3,20,41,60,12,0.6
+PPO fused,03_triangle_bypass,4,20,61,80,10,0.5
+PPO fused,03_triangle_bypass,5,20,81,100,9,0.45
+PPO fused,03_triangle_bypass,6,20,101,120,8,0.4
+PPO fused,03_triangle_bypass,7,20,121,140,16,0.8
+PPO fused,03_triangle_bypass,8,20,141,160,10,0.5
+PPO fused,03_triangle_bypass,9,20,161,180,11,0.55
+PPO fused,03_triangle_bypass,10,20,181,200,10,0.5
+PPO fused,04_t_branch_upper_lower,1,20,1,20,14,0.7
+PPO fused,04_t_branch_upper_lower,2,20,21,40,14,0.7
+PPO fused,04_t_branch_upper_lower,3,20,41,60,12,0.6
+PPO fused,04_t_branch_upper_lower,4,20,61,80,15,0.75
+PPO fused,04_t_branch_upper_lower,5,20,81,100,15,0.75
+PPO fused,04_t_branch_upper_lower,6,20,101,120,13,0.65
+PPO fused,04_t_branch_upper_lower,7,20,121,140,11,0.55
+PPO fused,04_t_branch_upper_lower,8,20,141,160,16,0.8
+PPO fused,04_t_branch_upper_lower,9,20,161,180,16,0.8
+PPO fused,04_t_branch_upper_lower,10,20,181,200,14,0.7
+PPO fused,05_diamond_bypass,1,20,1,20,11,0.55
+PPO fused,05_diamond_bypass,2,20,21,40,10,0.5
+PPO fused,05_diamond_bypass,3,20,41,60,14,0.7
+PPO fused,05_diamond_bypass,4,20,61,80,7,0.35
+PPO fused,05_diamond_bypass,5,20,81,100,12,0.6
+PPO fused,05_diamond_bypass,6,20,101,120,11,0.55
+PPO fused,05_diamond_bypass,7,20,121,140,8,0.4
+PPO fused,05_diamond_bypass,8,20,141,160,11,0.55
+PPO fused,05_diamond_bypass,9,20,161,180,9,0.45
+PPO fused,05_diamond_bypass,10,20,181,200,11,0.55

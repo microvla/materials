@@ -1,0 +1,401 @@
+policy,repeat,latency_ms,checkpoint,layout,seed,position,state,action_shape,device
+ppo,0,0.236867,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,1,0.228787,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,2,0.227997,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,3,0.224957,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,4,0.226157,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,5,0.225078,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,6,0.224098,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,7,0.223777,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,8,0.225987,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,9,0.223607,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,10,0.222238,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,11,0.225827,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,12,0.223517,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,13,0.223027,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,14,0.223798,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,15,0.223578,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,16,0.224617,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,17,0.228677,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,18,0.225647,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,19,0.225117,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,20,0.224277,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,21,0.224638,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,22,0.223808,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,23,0.222527,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,24,0.222797,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,25,0.225127,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,26,0.223477,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,27,0.224078,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,28,0.224978,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,29,0.225817,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,30,0.225897,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,31,0.221657,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,32,0.227537,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,33,0.232617,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,34,0.222718,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,35,0.221888,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,36,0.220327,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,37,0.223127,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,38,0.221097,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,39,0.221918,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,40,0.221708,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,41,0.224837,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,42,0.227097,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,43,0.222037,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,44,0.222357,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,45,0.222468,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,46,0.221537,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,47,0.221787,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,48,0.222357,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,49,0.221508,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,50,0.239668,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,51,0.224168,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,52,0.222337,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,53,0.223197,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,54,0.226857,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,55,0.230297,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,56,0.223317,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,57,0.219718,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,58,0.219168,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,59,0.219217,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,60,0.218947,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,61,0.218728,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,62,0.219278,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,63,0.218907,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,64,0.224877,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,65,0.219747,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,66,0.218858,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,67,0.241127,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,68,0.221477,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,69,0.218887,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,70,0.218547,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,71,0.219678,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,72,0.219797,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,73,0.219557,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,74,0.220008,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,75,0.218648,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,76,0.221687,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,77,0.219567,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,78,0.219368,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,79,0.224358,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,80,0.221207,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,81,0.220987,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,82,0.219038,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,83,0.219258,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,84,0.229327,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,85,0.219457,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,86,0.219367,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,87,0.219728,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,88,0.218678,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,89,0.219797,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,90,0.220007,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,91,0.224047,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,92,0.226718,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,93,0.221868,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,94,0.222127,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,95,0.218407,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,96,0.218867,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,97,0.217098,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,98,0.218697,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+ppo,99,0.219537,best_success_model.zip,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0, 0.5090829133987427, 0.0]","[1, 2]",cpu
+pi05,0,156.26374,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,1,155.287671,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,2,155.890675,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,3,156.23579,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,4,155.455529,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,5,157.079531,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,6,155.35134,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,7,155.771396,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,8,155.225722,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,9,155.610788,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,10,155.946944,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,11,155.760357,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,12,155.363281,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,13,155.237352,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,14,155.703987,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,15,156.403398,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,16,155.930744,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,17,155.41028,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,18,154.886096,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,19,154.499841,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,20,154.483621,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,21,155.302272,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,22,157.391847,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,23,154.975465,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,24,154.859297,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,25,154.286523,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,26,155.147073,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,27,155.653077,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,28,155.716577,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,29,155.258062,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,30,154.884587,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,31,154.718529,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,32,154.422862,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,33,155.166543,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,34,156.186031,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,35,157.517026,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,36,155.672207,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,37,155.333672,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,38,155.527009,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,39,155.576888,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,40,156.185271,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,41,155.736456,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,42,154.861627,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,43,154.755057,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,44,155.363351,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,45,160.49313,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,46,159.909987,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,47,155.563028,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,48,155.698787,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,49,159.737499,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,50,159.408413,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,51,155.551098,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,52,155.262172,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,53,156.348799,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,54,155.284572,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,55,156.025673,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,56,162.791423,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,57,157.571145,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,58,156.053832,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,59,155.344492,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,60,156.095472,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,61,156.731585,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,62,156.466107,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,63,156.151492,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,64,155.877484,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,65,156.069563,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,66,156.193731,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,67,155.510039,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,68,155.941884,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,69,155.162523,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,70,155.710246,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,71,155.597738,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,72,155.735996,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,73,156.091262,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,74,156.061023,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,75,157.620084,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,76,158.443615,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,77,158.141058,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,78,155.858215,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,79,155.625258,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,80,155.653248,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,81,155.742086,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,82,155.829246,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,83,155.993904,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,84,155.184593,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,85,155.626818,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,86,155.812575,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,87,157.724623,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,88,156.818824,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,89,156.163331,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,90,160.993164,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,91,157.282998,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,92,156.819414,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,93,156.577707,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,94,156.130032,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,95,155.891494,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,96,155.744656,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,97,155.784056,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,98,155.693527,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+pi05,99,156.208721,3000,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 0.0, 0.0]","[8, 2]",jax
+openvla-oft L1,0,129.015222,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,1,128.929252,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,2,129.819372,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,3,130.622983,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,4,129.772082,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,5,129.350937,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,6,129.102551,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,7,129.914761,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,8,130.008779,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,9,135.339897,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,10,130.274227,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,11,130.609132,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,12,129.037991,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,13,128.997141,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,14,128.655696,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,15,129.385947,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,16,129.424127,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,17,129.236949,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,18,129.184879,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,19,128.484117,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,20,128.892113,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,21,130.381065,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,22,130.438554,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,23,130.270757,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,24,129.645855,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,25,142.178677,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,26,131.806169,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,27,131.410173,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,28,132.47263,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,29,130.354886,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,30,129.652474,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,31,130.339646,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,32,130.710541,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,33,131.445823,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,34,130.201918,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,35,131.848349,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,36,130.542674,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,37,129.97235,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,38,129.688004,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,39,130.311727,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,40,130.718802,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,41,128.959582,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,42,129.867431,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,43,137.926567,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,44,131.350784,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,45,131.327854,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,46,133.143043,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,47,129.500545,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,48,129.483006,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,49,129.507866,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,50,130.916169,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,51,133.896734,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,52,131.450443,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,53,129.97916,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,54,131.130106,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,55,129.807052,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,56,129.501966,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,57,129.679044,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,58,131.151856,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,59,130.876939,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,60,130.545323,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,61,129.449246,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,62,129.99252,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,63,129.9225,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,64,129.419937,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,65,130.365646,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,66,131.590891,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,67,130.080139,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,68,132.215314,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,69,130.668902,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,70,131.470722,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,71,136.036469,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,72,130.268127,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,73,130.218017,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,74,130.531424,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,75,130.86614,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,76,129.922521,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,77,130.01777,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,78,130.01488,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,79,130.377106,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,80,130.740581,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,81,131.043148,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,82,133.825655,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,83,129.98197,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,84,130.422065,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,85,130.505323,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,86,129.904191,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,87,131.125896,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,88,131.758349,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,89,130.377345,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,90,129.840952,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,91,130.92395,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,92,131.865148,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,93,143.858807,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,94,131.342044,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,95,133.341071,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,96,132.271713,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,97,131.297615,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,98,131.694319,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1,99,132.338513,openvla-7b+vla_demos_ppo_no_distance_2000+b8+lr-0.0005+lora-r32+dropout-0.0+L1regression+0626--10000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,0,5618.686144,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,1,5616.361104,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,2,5625.102453,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,3,5653.938355,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,4,5669.526963,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,5,5675.527235,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,6,5687.460046,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,7,5685.952795,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,8,5688.806723,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,9,5694.26455,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,10,5694.216683,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,11,5702.383128,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,12,5699.600733,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,13,5701.774999,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,14,5701.415994,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,15,5702.327136,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,16,5705.492519,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,17,5706.950304,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,18,5708.511787,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,19,5711.017579,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,20,5712.122527,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,21,5711.389197,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,22,5709.850127,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,23,5710.236974,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,24,5715.669661,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,25,5712.629269,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,26,5711.899878,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,27,5710.387838,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,28,5727.145261,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,29,5727.723936,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,30,5726.993537,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,31,5722.227374,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,32,5727.118037,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,33,5723.133966,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,34,5723.037168,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,35,5724.011007,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,36,5723.444496,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,37,5721.760986,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,38,5719.345788,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,39,5723.223342,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,40,5725.729204,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,41,5726.952081,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,42,5723.347744,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,43,5722.379807,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,44,5724.087207,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,45,5724.682231,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,46,5721.770897,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,47,5723.051733,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,48,5724.26317,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,49,5714.703903,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,50,5723.475181,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,51,5725.704675,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,52,5723.239436,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,53,5723.79969,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,54,5723.195378,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,55,5731.712699,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,56,5725.315016,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,57,5722.058535,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,58,5725.979189,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,59,5722.508041,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,60,5722.447843,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,61,5731.941693,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,62,5725.524199,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,63,5718.737689,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,64,5725.432371,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,65,5721.945143,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,66,5723.268239,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,67,5724.020071,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,68,5724.447586,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,69,5723.731385,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,70,5726.094548,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,71,5724.853554,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,72,5722.73948,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,73,5721.859501,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,74,5723.978787,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,75,5726.707796,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,76,5736.360013,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,77,5726.497479,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,78,5722.25101,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,79,5721.50808,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,80,5720.003268,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,81,5722.262642,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,82,5722.467771,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,83,5721.941328,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,84,5722.476132,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,85,5724.827075,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,86,5723.452422,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,87,5721.689803,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,88,5723.404084,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,89,5724.972357,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,90,5728.468045,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,91,5723.482825,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,92,5726.021566,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,93,5723.678644,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,94,5724.8366,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,95,5725.81987,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,96,5725.998898,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,97,5723.574638,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,98,5719.664824,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu
+openvla-oft L1 diffusion,99,5722.709549,openvla-7b+microenv_ppo_goal6_episode10000_fused+b8+lr-0.0005+lora-r32+dropout-0.0--20000_chkpt,08_offset_y_clean,0,"[3.0, 10.0]","[3.0, 10.0, 0.0, 0.0, 14.0, 0.0]","[8, 2]",cuda-device-map-1gpu

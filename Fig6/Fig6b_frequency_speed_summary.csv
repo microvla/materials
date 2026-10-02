@@ -1,0 +1,7 @@
+frequency_hz,valid_speed_points,average_speed_mm_s,fastest_speed_mm_s,median_speed_mm_s,p05_speed_mm_s,p95_speed_mm_s,total_frames,candidate_points,stored_frequency_values,quadratic_fit_speed_mm_s,quadratic_fit_r_squared,source_csv
+1,121,12.136696,14.408079,12.541699,7.766906,13.757968,176,121,1,12.795946,0.952251,Fig6b_frequency_1Hz_raw.csv
+2,51,27.306155,31.638185,27.082214,25.217279,30.902339,501,51,2,23.608243,0.952251,Fig6b_frequency_2Hz_raw.csv
+3,298,27.277537,36.638278,30.490439,11.717138,35.653310,518,298,3,33.044152,0.952251,Fig6b_frequency_3Hz_raw.csv
+4,194,42.808545,49.999138,43.336376,36.721876,49.048474,285,194,4,41.103674,0.952251,Fig6b_frequency_4Hz_raw.csv
+5,94,50.181514,66.123067,50.959961,41.708844,56.971822,395,94,5,47.786809,0.952251,Fig6b_frequency_5Hz_raw.csv
+6,63,51.721933,59.183582,52.085183,43.370488,58.003689,400,63,6,53.093555,0.952251,Fig6b_frequency_6Hz_raw.csv

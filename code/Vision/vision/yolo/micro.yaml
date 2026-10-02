@@ -1,0 +1,12 @@
+# my_robot.yaml
+
+# 数据集
+path: dataset
+
+# 相对 path 的训练/验证图片路径
+train: images/train
+val: images/val
+
+# 类别名字列表
+names:
+  0: robot

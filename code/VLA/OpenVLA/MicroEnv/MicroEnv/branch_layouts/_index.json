@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "layout": "01_simple_y_split",
+    "source_name": "simple_y_split",
+    "json": "01_simple_y_split.json",
+    "png": "01_simple_y_split.png"
+  },
+  {
+    "id": 2,
+    "layout": "02_four_channel_clean_ladder",
+    "source_name": "four_channel_clean_ladder",
+    "json": "02_four_channel_clean_ladder.json",
+    "png": "02_four_channel_clean_ladder.png"
+  },
+  {
+    "id": 3,
+    "layout": "03_triangle_bypass",
+    "source_name": "triangle_bypass",
+    "json": "03_triangle_bypass.json",
+    "png": "03_triangle_bypass.png"
+  },
+  {
+    "id": 4,
+    "layout": "04_t_branch_upper_lower",
+    "source_name": "t_branch_upper_lower",
+    "json": "04_t_branch_upper_lower.json",
+    "png": "04_t_branch_upper_lower.png"
+  },
+  {
+    "id": 5,
+    "layout": "05_diamond_bypass",
+    "source_name": "diamond_bypass",
+    "json": "05_diamond_bypass.json",
+    "png": "05_diamond_bypass.png"
+  },
+  {
+    "id": 6,
+    "layout": "06_double_y_simple",
+    "source_name": "double_y_simple",
+    "json": "06_double_y_simple.json",
+    "png": "06_double_y_simple.png"
+  },
+  {
+    "id": 7,
+    "layout": "07_wide_trifurcation",
+    "source_name": "wide_trifurcation",
+    "json": "07_wide_trifurcation.json",
+    "png": "07_wide_trifurcation.png"
+  },
+  {
+    "id": 8,
+    "layout": "08_offset_y_clean",
+    "source_name": "offset_y_clean",
+    "json": "08_offset_y_clean.json",
+    "png": "08_offset_y_clean.png"
+  },
+  {
+    "id": 9,
+    "layout": "09_simple_angular_mesh",
+    "source_name": "simple_angular_mesh",
+    "json": "09_simple_angular_mesh.json",
+    "png": "09_simple_angular_mesh.png"
+  },
+  {
+    "id": 10,
+    "layout": "10_long_gentle_s_with_y",
+    "source_name": "long_gentle_s_with_y",
+    "json": "10_long_gentle_s_with_y.json",
+    "png": "10_long_gentle_s_with_y.png"
+  },
+  {
+    "id": 11,
+    "layout": "11_default",
+    "source_name": "default",
+    "json": "11_default.json",
+    "png": null
+  },
+  {
+    "id": 12,
+    "layout": "12_default_2",
+    "source_name": "default_2",
+    "json": "12_default_2.json",
+    "png": null
+  }
+]

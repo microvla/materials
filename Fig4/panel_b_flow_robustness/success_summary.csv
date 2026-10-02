@@ -1,0 +1,19 @@
+method,layout,episodes,successes,success_rate
+MicroVLA,01_simple_y_split,200,196,0.98
+MicroVLA,02_four_channel_clean_ladder,200,187,0.935
+MicroVLA,03_triangle_bypass,200,187,0.935
+MicroVLA,04_t_branch_upper_lower,200,188,0.94
+MicroVLA,05_diamond_bypass,200,189,0.945
+MicroVLA,overall,1000,947,0.947
+MicroVLA (Direct Action Mapping),01_simple_y_split,200,105,0.525
+MicroVLA (Direct Action Mapping),02_four_channel_clean_ladder,200,115,0.575
+MicroVLA (Direct Action Mapping),03_triangle_bypass,200,99,0.495
+MicroVLA (Direct Action Mapping),04_t_branch_upper_lower,200,121,0.605
+MicroVLA (Direct Action Mapping),05_diamond_bypass,200,102,0.51
+MicroVLA (Direct Action Mapping),overall,1000,542,0.542
+PPO fused,01_simple_y_split,200,107,0.535
+PPO fused,02_four_channel_clean_ladder,200,118,0.59
+PPO fused,03_triangle_bypass,200,105,0.525
+PPO fused,04_t_branch_upper_lower,200,140,0.7
+PPO fused,05_diamond_bypass,200,104,0.52
+PPO fused,overall,1000,574,0.574
